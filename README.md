@@ -14,11 +14,22 @@ Folien für die Ethik-Einheit (RKE, 1. Sek A) als Webseite. Ersetzt PowerPoint.
 | Pfeil links | vorherige Folie |
 | T | Timer der Folie starten oder pausieren |
 | R | Timer zurücksetzen |
-| N | Notizen für die Lehrperson ein- oder ausblenden |
+| P | Referentenansicht öffnen (Notizen, Timer, Vorschau, nur auf deinem Bildschirm) |
 | F | Vollbild |
 | H | Hilfe |
 
 Jede Folie hat oben die geplante Uhrzeit und Phase. Folien mit Arbeitsauftrag haben einen Timer, der am Ende piept.
+
+## Notizen nur für die Lehrperson
+
+Mit `P` öffnet sich die Referentenansicht (`referent.html`) in einem eigenen Fenster. Sie zeigt Notizen,
+den Auftrag an die Klasse, die aktuelle und die nächste Folie und steuert Folien und Timer im Beamer-Fenster.
+Voraussetzung: Bildschirm erweitern, nicht duplizieren (Windows: Win+P, Mac: Systemeinstellungen, Displays).
+
+## Export
+
+Unten links in der Präsentation: «PDF» oder «PowerPoint». Jede Folie wird als Bild exportiert,
+in der PowerPoint stehen die Notizen in der Notizenansicht. Der Export braucht Internet.
 
 ## Bilder aus dem Lehrmittel
 
